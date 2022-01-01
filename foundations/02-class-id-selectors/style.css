@@ -1,0 +1,16 @@
+.header {
+    background-color: #c7a4a1;
+    font-family: Verdana, sans-serif;
+}
+.header.larger {
+    font-size: 24px;
+}
+#title {
+    color: #0954d6;
+    font-size: 36px;
+}
+#title-2 {
+    background-color: #99e823;
+    font-size: 24px;
+    font-weight: bold;
+}
